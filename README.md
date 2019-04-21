@@ -4,7 +4,6 @@ cambio2
 cambio3
 cambio 4
 cambio 5
-6
 7
 8
 9
